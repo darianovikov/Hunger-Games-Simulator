@@ -1,0 +1,196 @@
+{
+   "tributes": {
+      "jewel": {
+         "name": "jewel",
+         "district": 1,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "hole": {
+         "name": "hole",
+         "district": 1,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "yarn": {
+         "name": "yarn",
+         "district": 2,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "rail": {
+         "name": "rail",
+         "district": 2,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "anger": {
+         "name": "anger",
+         "district": 3,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "question": {
+         "name": "question",
+         "district": 3,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "fly": {
+         "name": "fly",
+         "district": 4,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "government": {
+         "name": "government",
+         "district": 4,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "rice": {
+         "name": "rice",
+         "district": 5,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "truck": {
+         "name": "truck",
+         "district": 5,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "religion": {
+         "name": "religion",
+         "district": 6,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "mouth": {
+         "name": "mouth",
+         "district": 6,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "ant": {
+         "name": "ant",
+         "district": 7,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "cloud": {
+         "name": "cloud",
+         "district": 7,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "activity": {
+         "name": "activity",
+         "district": 8,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "addition": {
+         "name": "addition",
+         "district": 8,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "railway": {
+         "name": "railway",
+         "district": 9,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "vegetable": {
+         "name": "vegetable",
+         "district": 9,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "ring": {
+         "name": "ring",
+         "district": 10,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "system": {
+         "name": "system",
+         "district": 10,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "dock": {
+         "name": "dock",
+         "district": 11,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "mother": {
+         "name": "mother",
+         "district": 11,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "manager": {
+         "name": "manager",
+         "district": 12,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      },
+      "fog": {
+         "name": "fog",
+         "district": 12,
+         "status": "alive",
+         "weapons": [],
+         "effect": "none",
+         "death_cause": "none"
+      }
+   }
+}
